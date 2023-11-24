@@ -1,7 +1,7 @@
 ### Olá! Me chamo Fernando 👋
 
 - 🔭 Atualmente cursando Engenharia de Software.
-- 🌱 Hoje estou focando nas tecnologias de Front-End, mas buscando me desenvolver aos poucos no Back-End, seja através de cursos ou da própria Faculdade.
+- 🌱 Tenho bastante interesse na questão do Front-End, mas estou buscando me desenvolver aos poucos no Back-End, seja através de cursos ou da própria Faculdade.
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
