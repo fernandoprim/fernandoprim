@@ -1,20 +1,25 @@
-## Hello! My name is Fernando 👋
+## 👋🏻 About me
 
+Hi! My name is Fernando. Software Engineer student and an aspiring Data Analyst. Some of my skills include:
 
-<h3 align="left">About me:</h3>
-<p align="left">
-</p>
+- Querying data with SQL.
+- Generate insightful reports and perform Data Analysis with SQL queries.
+- Analyze data with Google Sheets/Excel.
 
-- 🔭 Currently pursuing a degree in Software Engineering.
-- 🌱 Passionate about Data Analysis and its potential to solve a wide range of problems.
+### 💻 Projects
 
-<h3 align="left">Main Languages, Frameworks & Tools:</h3>
+Some of my projects can be seen inside my [portfolio](https://github.com/fernandoprim/Portfolio/blob/main/README.md).
+
+### 🛠️ Main Tools
 
 <div class="inline-block">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" width="60" height="60"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" width="60" height="60"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/laravel/laravel-original.svg" width="60" height="60"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" width="60" height="60"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original-wordmark.svg" width="60" height="60"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg" width="60" height="60"/>
   <img src="https://github.com/sempostma/office365-icons/blob/master/svg/excel.svg" width="60" height="60"/>
+  <img src="https://img.icons8.com/?size=100&id=3sGOUDo9nJ4k&format=png&color=000000" width="60" height="60"/>
 </div>
 
+### Get in contact!
+
+- [LinkedIn](https://www.linkedin.com/in/fernandoprim/)
