@@ -1,5 +1,7 @@
 ## 👋🏻 About me
 
+<img src="https://github.com/fernandoprim/Assets/blob/main/banner1.png"/>
+
 Hi! My name is Fernando. Software Engineer student and an aspiring Data Analyst. Some of my skills include:
 
 - Querying data with SQL.
